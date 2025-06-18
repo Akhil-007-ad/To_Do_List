@@ -1,5 +1,5 @@
 import java.util.*;
-//Run chcp 65001 to get tick marks emoji and crossmark emojis
+//Run chcp 65001 to get tick marks emoji and crossmark emojis;
 class To_Do{
 
 public static void main(String[] args)
